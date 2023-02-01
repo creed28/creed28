@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">Studying Computer Science in Plovdiv University</h4>
+<h3 align="center">Studying Computer Science in Plovdiv University</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="center">Connect with me:</h4>
+<h3 align="center">Connect with me:</h3>
 
 ###
 
@@ -21,7 +21,7 @@
 
 ###
 
-<h4 align="center">Languages and Tools:</h4>
+<h3 align="center">Languages and Tools:</h3>
 
 ###
 

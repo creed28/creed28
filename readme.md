@@ -43,8 +43,9 @@
 ###
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=creed28&show_icons=true&locale=en&layout=compact" alt="creed28" /></p>
+<p style="background-color: #0D1117;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=creed28&show_icons=true&locale=en&layout=compact" alt="creed28" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=creed28&show_icons=true&locale=en" alt="creed28" /></p>
+<p style="background-color: #0D1117;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=creed28&show_icons=true&locale=en" alt="creed28" /></p>
+
 
 ###

@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Studying Computer Science at Plovdiv University</h2>
+<h2 align="center">Computer Science Student at Plovdiv University</h2>
 
 ###
 

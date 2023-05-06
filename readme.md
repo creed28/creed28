@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🦗 Creating bugs since 2021<br>📚 Currently learning Full Stack Development and Java<br>👨‍💻Working on Websites, Web Apps and Games, Desktop Apps<br> 📫 You can reach me at <a href = "mailto: hristo.zagorliev44@gmail.com">hristo.zagorliev44@gmail.com</a></p>
+<p align="left">🦗 Creating bugs since 2021<br>📚 Currently learning Full Stack Development<br>👨‍💻Working on Websites, Web Apps and Games, Desktop Apps<br> 📫 You can reach me at <a href = "mailto: hristo.zagorliev44@gmail.com">hristo.zagorliev44@gmail.com</a></p>
 
 ###
 

@@ -58,9 +58,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/creed28/creed28/output/snake.svg" alt="Snake animation" />
-
-###

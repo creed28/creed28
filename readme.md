@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="350" height="350" src="https://i.pinimg.com/originals/83/30/34/833034ab5d9407e2c00c42ca5ee144ac.gif" />
+  <img width="400" height="350" src="https://i.pinimg.com/originals/83/30/34/833034ab5d9407e2c00c42ca5ee144ac.gif" />
 </div>
 
 ### <h1 align="center">Hi 👋! My name is Hristo Zagorliev!</h1>

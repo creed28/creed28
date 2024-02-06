@@ -1,4 +1,6 @@
-<img align="center" height="150" src="https://i.pinimg.com/564x/83/f9/8b/83f98b9aae99ac7609838f9b8deaf7f8.jpg" />
+<div align="center">
+  <img height="150" src="[https://i.pinimg.com/564x/83/f9/8b/83f98b9aae99ac7609838f9b8deaf7f8.jpg](https://64.media.tumblr.com/0fbc53efd818c3cca6d73629a8435e96/c5c03344d2f28ab6-ab/s540x810/4507378317ce846ff586e1b217ece5b35e71ee35.gifv)" />
+</div>
 
 ### <h1 align="center">Hi 👋! My name is Hristo Zagorliev!</h1>
 

@@ -1,8 +1,9 @@
-###
+ <img src="[https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://www.google.com/url?sa=i&url=https%3A%2F%2Faestheticsmut.tumblr.com%2Fpost%2F652561769267675136&psig=AOvVaw3dTDow1EpskPYJ7y2D4RrT&ust=1707319664889000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjF8sODl4QDFQAAAAAdAAAAABA5)" width="500">
 
-<h1 align="center">Hi 👋! My name is Hristo Zagorliev</h1>
+### <h1 align="center">Hi 👋! My name is Hristo Zagorliev</h1>
 
 # 👾 About Me:
+<p>I'm a computer science student at Plovdiv University, deeply immersed in the dynamic world of web development. My academic journey involves exploring various technologies, honing my skills, and undertaking diverse web projects. With each endeavor, I'm continually expanding my knowledge and expertise in this captivating field.</p>
 🌐 Learning Web <b>Development</b><br>💻 Creating <b>Websites</b> and <b>Web Apps</b>
 
 # 💻 Tech Stack:
@@ -13,6 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=creed28&theme=darcula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=creed28&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=creed28&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

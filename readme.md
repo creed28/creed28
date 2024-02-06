@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="150" src="[https://i.pinimg.com/564x/83/f9/8b/83f98b9aae99ac7609838f9b8deaf7f8.jpg](https://64.media.tumblr.com/0fbc53efd818c3cca6d73629a8435e96/c5c03344d2f28ab6-ab/s540x810/4507378317ce846ff586e1b217ece5b35e71ee35.gifv)" />
+  <img height="150" src="![image](https://github.com/creed28/creed28/assets/108797796/ec735a20-9649-4ee0-bf08-4ba4088a4410)
+" />
 </div>
 
 ### <h1 align="center">Hi 👋! My name is Hristo Zagorliev!</h1>

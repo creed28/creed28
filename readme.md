@@ -1,4 +1,4 @@
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faestheticsmut.tumblr.com%2Fpost%2F652561769267675136&psig=AOvVaw3dTDow1EpskPYJ7y2D4RrT&ust=1707319664889000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjF8sODl4QDFQAAAAAdAAAAABA5" width="500">
+<img align="right" height="150" src="https://i.pinimg.com/564x/83/f9/8b/83f98b9aae99ac7609838f9b8deaf7f8.jpg"  />
 
 ### <h1 align="center">Hi 👋! My name is Hristo Zagorliev!</h1>
 

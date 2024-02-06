@@ -15,7 +15,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=creed28&theme=nord&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=creed28&theme=nord&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=creed28&theme=nord&no-frame=true&no-bg=false&margin-w=4)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/40/e8/b9/40e8b9e20949b7bbcb35019c3129942e.gif" />
 </div>
 
-### <h1 align="center">Hi 👋! My name is Hristo Zagorliev!</h1>
+### <h1 align="center">Hi👋! My name is Hristo Zagorliev!</h1>
 
 # 👾 About Me:
 <p>I'm a Computer Science student at Plovdiv University, deeply immersed in the dynamic world of web development. My academic journey involves exploring various technologies, honing my skills, and undertaking diverse web projects. With each endeavor, I'm continually expanding my knowledge and expertise in this captivating field.</p>

@@ -5,7 +5,7 @@
 ### <h1 align="center">Hi👋! My name is Hristo Zagorliev!</h1>
 
 # 👾 About Me:
-<p>I'm a Computer Science student at Plovdiv University and a Full-stack Developer at Inensia, deeply immersed in the dynamic world of web development. My academic journey involves exploring various technologies, honing my skills, and undertaking diverse web projects. With each endeavor, I'm continually expanding my knowledge and expertise in this captivating field.</p>
+<p>I'm a Full-stack Developer at Inensia, deeply immersed in the dynamic world of web development. My academic journey involves exploring various technologies, honing my skills, and undertaking diverse web projects. With each endeavor, I'm continually expanding my knowledge and expertise in this captivating field.</p>
 🌐 Learning <b>Web Development</b><br>💻 Creating <b>Websites</b> and <b>Web Apps</b><br>📧 Contact me at <a href = "mailto:hristozagorliev283@gmail.com">hristozagorliev283@gmail.com</a><br>
 
 # 💻 Tech Stack:
